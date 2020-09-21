@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Our MetaBox
-Plugin URI: 
+Plugin URI: https://github.com/moonkabir/wp-plugin
 Description: 
 Version: 1.0
-Author: 
-Author URI: 
+Author: Moon Kabir
+Author URI: https://moonkabir.xyz
 License: GPLv2 or later
 Text Domain: our-metabox
 Domain Path: /languages/
