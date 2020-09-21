@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Moon-Tiny-Slider
-Plugin URI:
-Description:
+Plugin URI:https://github.com/moonkabir/wp-plugin
+Description:This is built in tiny slider for wp
 Version: 1.0
-Author: LWHH
-Author URI: https://hasin.me
+Author: Moon Kabir
+Author URI: https://moonkabir.xyz
 License: GPLv2 or later
 Text Domain: moontinyslider
 Domain Path: /languages/
