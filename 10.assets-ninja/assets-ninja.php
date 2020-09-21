@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: AssetsNinja
-Plugin URI: 
+Plugin URI: https://github.com/moonkabir/wp-plugin
 Description: Plugin assets managment in depth
 Version: 1.0
-Author: 
-Author URI: 
+Author: Moon Kabir
+Author URI: https://moonkabir.xyz
 License: GPLv2 or later
 Text Domain: assetsninja
 Domain Path: /languages/
